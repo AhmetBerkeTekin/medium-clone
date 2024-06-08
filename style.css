@@ -1,0 +1,68 @@
+.bg-light-yellow{
+    background-color: #F7F4ED; 
+    
+}
+.border-bt{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+.hs{
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    line-height: 100px;
+    font-size: 120px;
+    letter-spacing: -0.055em;
+    margin-top: 8.5rem;
+    color: #242424;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    font-weight: 400;
+}
+.number{
+    color: #34AA45;
+    font-weight: lighter;
+    line-height: 216px;
+    font-size: 300px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.headings{
+    font-size: 85px;
+    letter-spacing: -0.055em;
+    line-height: 88px;
+    color: #000000;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-weight: 400;
+}
+.paragraphs{
+    letter-spacing: -0.003em;
+    line-height: 32px;
+    font-size: 21px;
+    font-family: source-serif-pro, Georgia, Cambria, "Times New Roman", Times, serif;
+    color: #242424;
+    font-weight: 400;
+}
+.btn-end{
+    transition: border-radius 300ms ease-out;
+    padding: 80px 0;
+    background-color: #34AA45;
+    justify-content: center;
+    display: flex   
+}
+.unlock{
+    letter-spacing: -0.05em;
+    line-height: 74px;
+    font-size: 70px;
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+}
+.n{
+    transition: gap 300ms ease-out;
+    gap: 40px;
+    display: flex;
+}
+li{
+    font-size: 13px;
+    color: #6B6B6B;
+    line-height: 20px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
